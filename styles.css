@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccee66;
+    color: white;
+    padding: 20px 100px;
+    height: 90vh;
+    font-family: "Noto Sans", sans-serif;
+
+    overflow: hidden;
+}
+
+body::before {
+    content: '';
+    background: #202020;
+    position: absolute;
+    top: 0;
+    left: -600px;
+    transform: rotate(-70deg);
+    width: 117%;
+    height: 140%;
+    z-index: -1;
+}
+
+body ::after{
+    content: 'Nike';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 175px;
+    font-weight: bold;
+    z-index: -1; /* Para não cobrir o texto ou imagem */
+    opacity: 0.1;
+}
+
+.logo {
+    width: 50px;
+}
+
+h4 {
+    font-size: 20px;
+    margin-top: 50px; /* Adiciona 20px de margem acima */
+}
+
+h1 {
+    font-size: 57px;
+    margin-bottom: -50px; /* Adiciona 20px de margem abaixo */
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 20px;;
+    margin-top: 80px; /* Ajuste negativo para subir o parágrafo */
+}
+
+.botao-carrinho {
+    background: #a3be52;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+    border: none;
+}
+
+.botao-carrinho:hover {
+    opacity: 0.7;
+}
+
+.imagem-tenis {
+    width: 580px;
+    transform: rotate(-25deg);
+    margin-bottom: -25px; /* Adiciona 20px de margem abaixo */
+    position: relative; /* Torna o z-index funcional */
+    z-index: 2; /* Maior que o texto "Nike" */
+    filter: drop-shadow(30px 45px 40px #161616);
+    transition: 1s;
+}
+
+.troca-efeito {
+    opacity: 0;
+    transform: rotate(-25deg) translateY(-30px);
+}
+
+.caixa-principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75%;
+    margin-top: 20px
+    position: relative;
+    z-index: 1; /* Para garantir que o texto e a imagem fiquem acima do fundo */
+}
+
+.caixa-texto {
+    max-width: 400px;
+    z-index: 1;
+}
+
+.caixa-botoes {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.botoes {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.botoes:active {
+    opacity: 0.6;
+}
+
+.verde {
+    background: #ccee66;
+}
+
+.azul {
+    background: #58cced;
+}
+
+.rosa {
+    background: #ff9eb5;
+}
