@@ -1,16 +1,18 @@
 let body = document.querySelector("body")
 let tenis = document.querySelector(".imagem-tenis")
+let botaoCarrinho = document.querySelector(".botao-carrinho")
 
-function mudarVisual(cor, imagem){
+function mudarVisual(cor, imagem) {
     tenis.classList.add("troca-efeito")
 
-    body.style.background = cor
+    // muda o fundo do body
+    body.style.background = cor;
 
-    // contador de tempo
+    // muda a cor do botão
+    botaoCarrinho.style.background = cor;
+
     setTimeout(() => {
         tenis.src = imagem
         tenis.classList.remove("troca-efeito")
-    }, 500);
-
+    }, 500)
 }
-
