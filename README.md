@@ -36,7 +36,7 @@ Landing page interativa e moderna de um produto da Nike, desenvolvida para prati
 ### 📱 Preview Mobile
 
 <p align="center">
-  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/main/assets/mobile-preview.png?raw=true" width="250" alt="Preview Mobile do site Nike Air Zoom"/>
+  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/master/img/Nike%20Mobile.png?raw=true" width="250" alt="Preview Mobile do site Nike Air Zoom"/>
 </p>
 
 ---
