@@ -18,9 +18,14 @@ Landing page interativa e moderna de um produto da Nike, desenvolvida para prati
 
 ### 🛠️ Tecnologias Utilizadas
 
-- ![HTML](https://cdn-icons-png.flaticon.com/128/1051/1051277.png) **HTML5**
-- ![CSS](https://cdn-icons-png.flaticon.com/128/16020/16020753.png) **CSS3**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) **JavaScript**
+<div style="display: flex; align-items: center; gap: 10px;">
+  </p><img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="30"/> HTML5
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" alt="CSS" height="30"/> CSS3
+  <br>
+  <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="JavaScript" height="30"/> Visual Studio Code
+  <br>
+</div>
 
 ---
 
