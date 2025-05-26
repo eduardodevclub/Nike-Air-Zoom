@@ -5,7 +5,7 @@ Landing page interativa e moderna de um produto da Nike, desenvolvida para prati
 ---
 
 <p align="center">
-  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/main/assets/desktop-preview.png?raw=true" width="600" alt="Preview Desktop do site Nike Air Zoom"/>
+  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/master/img/Nike%20Desktop.png?raw=true" width="600" alt="Preview Desktop do site Nike Air Zoom"/>
 </p>
 
 ---
