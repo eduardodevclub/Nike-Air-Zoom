@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/eduardodevclub/Nike-Air-Zoom/blob/master/img/Nike%20Desktop.png?raw=true" width="500" alt="Nike Air Zoom Thumbnail"/>
+</p>
+
 # 👟 Nike Air Zoom
 
 Landing page interativa e moderna de um produto da Nike, desenvolvida para praticar HTML, CSS e JavaScript, com foco em responsividade, design atrativo e troca dinâmica de cores e imagens do produto.
