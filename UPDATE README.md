@@ -52,7 +52,7 @@ Landing page interativa e moderna de um produto da Nike, desenvolvida para prati
 
 ### 📌 Autor
 
-Desenvolvido por [@eduardodevclub](https://github.com/eduardodevclub) durante os estudos no [DevClub](https://rodolfomori.com.br/devclub).
+Desenvolvido por [@eduardodevclub](https://github.com/eduardodevclub) durante os estudos no [DevClub](https://lp.devclub.com.br/devclub-oficial/).
 
 ---
 
